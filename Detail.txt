@@ -1,0 +1,36 @@
+This is a fun project that help us to understand how a population may work.
+
+There will be a population of creatures with some food , predators,some abilities like fast run,food recognizer,fighting,helping
+we may implement bussiness and many more.
+
+I am dividing this proj in some level(I don't know how many but atleast initial stage should be clear).
+
+LEVEL1:
+    1.It will be make classes of creatures with diffrent attributes and methods.
+    2.Graphic visualisation using pygame.
+    3.Implementing code like eating food,coliision with creature,food randomization.
+LEVEL2:
+    1.Implementing some abstract things like anger,kindness,hate,love,friendship,strategy,family,solitary,discrimination,etc. in the code.
+    2.Plotting graphs of diffrent attributes
+    3.Think about what to add as LEVEL3.
+LEVEL3:
+    1.Pehle LEVEL1 and LEVEL2 to krle.
+
+
+Attributes and method:
+    creature
+        Attributes       
+            1."Life" for measuring how many days does the creature has lived
+            2."Energy" for measuring how much energy a creature is having at any instant of time
+            3."hungry" is a boolean parameter to tell if the creature is hungry or not.
+        methods
+            1.Move : To move the creature may be in any direction
+            2.eat : to eat the food
+    food
+        Attributes
+            1.life : to know how much life does a food have , its eneergy decreases with life increases
+            2.energy : amount of energy it will tranfer to the creature who eats it
+    nature
+        contains all rule of the nature ...life ...dead ...reproduction...energy balance,etc.
+            
+
