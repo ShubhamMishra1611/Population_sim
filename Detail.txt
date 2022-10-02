@@ -1,4 +1,4 @@
-This is a fun project that help us to understand how a population may work.
+This is a fun project that help us to understand how a population work.
 
 There will be a population of creatures with some food , predators,some abilities like fast run,food recognizer,fighting,helping
 we may implement bussiness and many more.
@@ -14,7 +14,7 @@ LEVEL2:
     2.Plotting graphs of diffrent attributes
     3.Think about what to add as LEVEL3.
 LEVEL3:
-    1.Pehle LEVEL1 and LEVEL2 to krle.
+    1.Need to think
 
 
 Attributes and method:
